@@ -1,0 +1,11 @@
+####### Example ini File for crawler ############
+[SectionUser]
+user:{ornitho.de user}
+pass:{ornitho.de password}
+
+[SectionDB]
+dbhost:{mysql hostname}
+dbuser:{mysql user}
+dbpass:{mysql password}
+dbchar:utf8
+dbname:ornitho_de

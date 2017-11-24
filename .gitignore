@@ -1,0 +1,5 @@
+# ignore config files
+*.ini
+
+# ignore precompiled files
+*.pyc
